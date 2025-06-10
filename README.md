@@ -63,7 +63,7 @@ GET /api/invalid-date
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/boilerplate-timestamp](https://github.com/narendrajethi220/Timestamp-Microservice.git)
+   git clone https://github.com/narendrajethi220/Timestamp-Microservice.git
    cd Timestamp-Microservice
    ```
 
