@@ -88,7 +88,4 @@ GET /api/invalid-date
 ---
 
 ### 🎓 Certification
-
 This project is part of the **FreeCodeCamp Backend Development and APIs** certification.
-
-```
